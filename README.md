@@ -1,2 +1,0 @@
-# ChromeDeMobamasu
-mobamasu on Chrome
